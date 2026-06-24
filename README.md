@@ -89,4 +89,3 @@ Through this project, I learned:
 
 ---
 
-Michelle S
